@@ -8,7 +8,7 @@ introduzca para cada carga los datos de la misma, esto es, su posición definida
 cargas en un vector de estructuras. Finalmente, deberá pedir el punto del espacio donde se quiere
 obtener el campo y calculará dicho campo.
 Recordamos que el campo generado por una carga q en un punto del espacio tiene la forma
-E = (k*q)/r^3 (->r), siendo '->r' el vector director del radio
+E = (k*q)/r^3 (->r), siendo '->r' el vector director
 
 siendo r el vector que va de la carga al punto y r su módulo, y k = 9*E9 (N*m^2)/C^2.
 */
